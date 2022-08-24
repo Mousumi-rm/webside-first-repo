@@ -1,0 +1,51 @@
+body{
+    background-color: blanchedalmond;
+}
+.one{
+    background-color: blueviolet;
+    border: 2px solid yellow;
+    border-radius: 25px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    margin:25px 200px 25px 200px ;
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;\
+    
+  
+   
+}
+
+
+.hot{
+    background-color: aquamarine;
+    border: 2px solid yellow;
+    border-radius: 25px;
+    margin: 25px 300px 25px 300px;
+    padding: 20px 40px 100px 40px;
+    text-align: center;
+     
+  
+}
+.author{
+    color: crimson;
+}
+
+
+
+img{
+    border: 2px solid yellow;
+    border-radius: 25px;
+    margin-top: 8px;
+    margin-left: 40%;
+    
+}
+div p{
+    text-align: justify;
+}
+h1{
+color: wheat;    
+}
+h2{
+    color: wheat;
+}
