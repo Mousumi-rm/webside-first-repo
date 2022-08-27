@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flex-for-need{
+display: flex;
+margin-bottom: 150px;
+}
+#background-pic{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.diet{
+width: 50%;
+padding-left: 10%;
+padding-top: 5%;   
+}
+.diet img{
+width: 85%;
+}
+.owman-img{
+    width: 30%;
+    padding-left: 10% 10%;    
+}
+#about{
+    padding-top: 20%;
+}
+h1{
+    font-size: 50px;
+    color:#575757 ;
+}
+h2{
+    font-size: 30px;
+    color:#575757 ;
+  
+}
+p{
+    color: dimgray;
+    text-align: justify;
+}
+
+.color-orange{
+    color: orange;
+}
+.button-work{
+    text-decoration: none;
+    background-image: linear-gradient(-45deg, orange, red);
+    padding: 10px 20px;
+    border-radius: 40px;
+    font-weight: 600;
+    color: wheat;
+}
+
+.my-Recipies{
+    text-align: center;
+    margin: 2% 25% 2% 25%;
+}
+.new-flax{
+    display: flex;
+    width: 80%;
+    margin-top: 5%;
+    padding-left: 15%; 
+    padding-right: 20%;
+    margin-bottom: 10%;
+  
+}
+.food-image{
+    padding: 1% 2% 3% 2%;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 10%;
+    border-radius: 30px;
+
+}
+.food-image img{
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 30px; 
+}
+
+.social-media{
+    display: flex;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 40px;
+    padding-left:5% ;
+    padding-right:2%;
+   
+}
+.social-media-p-h-tag{
+    box-shadow: 10px 10px 40px gray;
+     padding: 20px 20px 20px 20px;
+     margin: 10px 10px 10px 10px;
+     border: 5px solid gray;
+     border-radius: 20px;
+}
+footer{
+    background-color: black;
+    color: #575757;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  
+}
+
+   
+
+
